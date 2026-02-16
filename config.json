@@ -1,11 +1,11 @@
 {
-    "prefix": "",
+    "prefix": "!",
     "owners": [
-        "",
+        "981610670757904495",
         "",
         ""
     ],
-    "Guild": "",
-    "token": "",
+    "Guild": "1456478965085503570",
+    "token": "MTQ3MzA1NTQ2NDA4MTMzMDI5OQ.Ge7SyL.qBD8QDPNpjOld7aWV0GYMf1bsmcIhGstE67DEM",
     "db": "mongodb+srv://x87bb:2LDtYbNsxY3rQ3NZ@cluster0.odjlnwq.mongodb.net/"
 }
