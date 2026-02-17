@@ -3,11 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+
+  "engines": {
+    "node": "18.x"
+  },
+
   "scripts": {
     "start": "nodemon index.js"
   },
+
   "author": "",
   "license": "ISC",
+
   "dependencies": {
     "@discordjs/voice": "^0.16.0",
     "@napi-rs/canvas": "^0.1.44",
